@@ -1,3 +1,3 @@
 a = 5 ;
 console.log(a);
-a=10;
+a=12;
